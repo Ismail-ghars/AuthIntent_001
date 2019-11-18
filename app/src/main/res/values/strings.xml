@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AuthIntent</string>
+    <string name="image_content_description">connexion</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="create_account">Créer un compte</string>
+    <string name="email">Email</string>
+    <string name="password">Mot de passe</string>
+    <string name="connect">Se connecter</string>
+    <string name="title_activity_login_display">LoginDisplayActivity</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Mot de passe</string>
+    <string name="email_format_error">Email incorrrect</string>
+    <string name="email_or_password_empty">L\'email et le mot de passe sont obligatoires</string>
+    <string name="email_invalide">Le champ email ne correspond pas au format d\'une email</string>
+</resources>
